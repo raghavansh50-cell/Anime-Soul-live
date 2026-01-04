@@ -1,0 +1,7 @@
+{
+  "name": "AnimeSoul Live",
+  "description": "The ultimate anime character experience. Chat, generate memories, and call your favorite heroes in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
